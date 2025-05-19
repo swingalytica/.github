@@ -1,31 +1,25 @@
-# RealGolf.Games ⛳️
+# RealGolf.Games
 
-Welcome to the official GitHub Organization for Real Golf Games! Here, we collaborate on and maintain various projects related to the exciting world of golf. Your contributions are highly valued, and we invite you to join us in enhancing the golf playing experience for enthusiasts worldwide.
+**RealGolf.Games** builds digital products for the sport of golf – from interactive rules to games, all designed with clarity, fairness, and enjoyment in mind.
 
-![Real Golf Games](/img/logo_banner.PNG)
+## About
 
-## 🌟 Star Status
+We create software tools that support golfers in everyday situations – on the course, in clubs, and online.
+This is not an open-source initiative, but a focused software platform with a clear product vision.
 
-[![GitHub Org's stars](https://img.shields.io/github/stars/realgolfgames?style=for-the-badge&color=goldenrod)](https://github.com/realgolfgames?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/realgolfgames?style=for-the-badge)](https://github.com/realgolfgames?tab=followers)
+## GitHub Usage
 
-## 🚀 Get Involved
+This GitHub organization is used primarily for internal development and documentation.
 
-Explore our open-source repositories and dive into the world of golf game development. Your contributions make a significant impact, and we're excited to build something great together. Some of our projects are licensed under the [MIT License](https://github.com/search?q=org%3Arealgolfgames++license%3Amit+&type=repositories), fostering a collaborative and open environment.
+## Contact
 
-## 🏞️ Projects
+For more information, visit [realgolf.games](https://realgolf.games).
+If you have questions or ideas, feel free to reach out through our website.
 
-Here are some of the open source projects currently maintained by Real Golf Games:
+## Legal
 
-- **Docs**: The Docs for the Real Golf Games
-- **Community**: The Repository for the Real Golf Games Community
+- [Imprint](https://realgolf.games/imprint)
+- [Terms of Service](https://realgolf.games/terms)
+- [Privacy Policy](https://realgolf.games/privacy)
 
-Feel free to explore each project, raise issues, submit pull requests, and share your ideas. We believe in the power of community collaboration to create innovative and enjoyable golf playing experiences.
-
-## 📝 Contribution Guidelines
-
-Before contributing, please review our [Contribution Guidelines](./CONTRIBUTING.md) to ensure a smooth and effective collaboration process.
-
-We look forward to building the future of golf playing with you. Happy coding! ⛳️✨
-
-Copyright © 2024 RealGolf.Games
+© 2022 - 2025 RealGolf.Games UG (haftungsbeschränkt)
